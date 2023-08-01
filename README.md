@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mojtaba</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🔭 I’m currently try to apply front end internship [coming soon](https://github.com/hassanzadeh-mj/futuguard-miniproject)
+- 🔭 I’m currently try to apply front end  [Projects](https://github.com/hassanzadeh-mj/futuguard-miniproject)
 
 - 📫 How to reach me **mj.hassanzadeh1995@gmail.com**
 
